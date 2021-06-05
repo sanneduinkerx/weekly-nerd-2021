@@ -4,12 +4,12 @@ Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met 
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. 
 
 Na elke sessie, 3 in totaal, heb ik artikelen geschreven over een bepaald onderwerp binnen de design wereld. Daarnaast
-heb ik ook vragen die horen bij de sessies, beantwoord. En je kunt sketchnotes vinden van de verschillende gastcolleges. 
+heb ik ook vragen, die horen bij de sessies, beantwoord. En je kunt sketchnotes vinden van de verschillende gastcolleges. 
 
 # Table of contents:
 
 - [📚 Weekly Nerd 1](#-weekly-nerd-1)
-  - [❓ De vraag van de week](#-de-vraag)
+  - [❓ De vraag](#-de-vraag)
   - [Artikel 1 - balans tussen design en development ⚙️](#artikel-1---balans-tussen-design-en-development-%EF%B8%8F)
 - [💻 Weekly Nerd 2](#-weekly-nerd-2)
   - [❓ De vraag](#-de-vraag-1)
