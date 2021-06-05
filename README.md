@@ -10,10 +10,10 @@ heb ik ook vragen die horen bij de sessies, beantwoord. En je kunt sketchnotes v
 
 - [📚 Week 1](#-week-1)
   - [❓ De vraag van de week](#-de-vraag-van-de-week)
-  - [Artikel 1 ⚙️](#artikel-1---balans-tussen-design-en-development-)
+  - [Artikel 1 ⚙️](#artikel-1---balans-tussen-design-en-development-%EF%B8%8F)
 - [💻 Week 2](#-week-2)
   - [❓ De vraag van de week](#-de-vraag-van-de-week-1)
-  - [Artikel 2 ♿️](#artikel-2---toegankelijkheid-)
+  - [Artikel 2 ♿️](#artikel-2---toegankelijkheid-%EF%B8%8F)
 - [🤓 Week 3](#-week-3)
   - [❓ De vraag van de week](#-de-vraag-van-de-week-2)
   - [Artikel 3]()
