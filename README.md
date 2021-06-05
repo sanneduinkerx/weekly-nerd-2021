@@ -10,15 +10,18 @@ heb ik ook vragen die horen bij de sessies, beantwoord. En je kunt sketchnotes v
 
 - [📚 Week 1](#-week-1)
   - [❓ De vraag van de week](#-de-vraag-van-de-week)
-  - [Artikel 1 ⚙️](#artikel-1---balans-tussen-design-en-development-%EF%B8%8F)
+  - [Artikel 1 - balans tussen design en development ⚙️](#artikel-1---balans-tussen-design-en-development-%EF%B8%8F)
 - [💻 Week 2](#-week-2)
   - [❓ De vraag van de week](#-de-vraag-van-de-week-1)
-  - [Artikel 2 ♿️](#artikel-2---toegankelijkheid-%EF%B8%8F)
+  - [Artikel 2 - toegankelijkheid ♿️](#artikel-2---toegankelijkheid-%EF%B8%8F)
 - [🤓 Week 3](#-week-3)
   - [❓ De vraag van de week](#-de-vraag-van-de-week-2)
-  - [Artikel 3]()
+  - [Artikel 3 - progressive enhancement ✅]()
 
 # 📚 Week 1
+
+[Img here?]
+
 Deze week was er een gastcollege van **Dept** waar werd uitgelegd hoe hun een case aanpakken. Ze hebben de case Univé gepresenteerd. Na het college van Dept, kwam er iemand van **Label A** uitleggen over een systeem voor het invullen van een rooster voor huisartsen. De Sketchnotes van de 2 gast lectures zijn [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/WkN%231:-Sketchnotes-%F0%9F%93%9D) te vinden.
 
 ## ❓ De vraag van de week 
@@ -32,17 +35,30 @@ Voor deze week heb ik een **artikel** geschreven over de balans tussen design en
 
 # 💻 Week 2
 
+[Img here?]
+
+Deze week hebben we een gastcollege gehad van Fenna Wilde van **Build in Amsterdam**. Ze heeft helemaal uitgelegd hoe de case van Mammut, waar ze een website voor moesten bouwen in een korte tijd, in elkaar zit. Daarna was er een gastcollege van twee meiden van **Triple**. Hun vertelde over hoe je complexe situaties kan oplossen. De sketchnotes van de colleges zijn [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/WkN%232:-Sketchnotes-%F0%9F%93%9D) te vinden.
+
 ## ❓ De vraag van de week 
 Je hebt geleerd hoe je toegankelijke websites kan maken. Een belangrijk uitgangspunt voor een digital designer is er voor zorgen dat een website door iedereen te gebruiken is. Toch zijn veel ontwikkelbedrijven zelf niet 'inclusive'. Ook de tech-industrie bestaat voor een groot deel uit dezelfde type personen en testen vervolgens hun websites bij weer dezelfde types, met stereotypering, vooroordelen en biased uitkomsten tot gevolg. Herken je dit als probleem? Moet dit veranderen? In wat voor team zie jij jezelf graag werken? Lees het artikel [On racism and sexism in branding, user interface, and tech](https://uxdesign.cc/on-racism-and-sexism-in-branding-user-interface-and-tech-337f5ceb7ed5) en het project [Working towards a more inclusive design scene in The Netherlands](https://inclusief.design/) en gebruik dit voor het beantwoorden van de vraag.
 
-Het antwoord op de vraag is [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/WkN%232:-de-vraag-%E2%9D%93) te vinden.
+*Het antwoord op de vraag is [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/WkN%232:-de-vraag-%E2%9D%93) te vinden.*
 
 ### Artikel 2 - Toegankelijkheid ♿️
 Voor deze week heb ik een **artikel** geschreven over toegankelijkheid op het web. Lees het artikel [hier]().
 
 # 🤓 Week 3
 
-## ❓ De vraag van de week 
+[Img here?]
 
-### Artikel 3 - ...
-Voor deze week heb ik een **artikel** geschreven over toegankelijkheid. Lees het artikel [hier]().
+Deze week hadden we een college van **Mirabeau**. Binnen dit college werd uitgelegd hoe ze omgaan met klanten en de verschillende design afdelingen, zoals interaction design en visual design samen met frontend. 
+
+## ❓ De vraag van de week 
+Je bent nu 3 maanden 24/7 code aan het klopppppen. Hopelijk heb je super veel geleerd, ben je regelmatig uitgedaagd, weet je (nog beter) waar je grenzen liggen en hoe je je verder kan en wil onwikkelen als "frontender". Of juist niet ...
+
+In de verschillende vakken die je hebt gevolgd zijn technieken en werkwijzen aan bod gekomen die een "echte" frontender ook doet: prototypen, experimenteren, ingewikkelde code, simpele code, onderzoeken, testen, lezen, documenteren, en heel veel HTML, CSS en JS, op de client en op de server. Welke onderwerpen hebben de meeste indruk op je gemaakt? Een gastspreker of een test? Een inzicht tijdens een Discord-sessie met een van de student-assistenten? Schrijf per vak wat je hebt geleerd en wat je meeneemt als frontender.
+
+*Deze vraag heb ik [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/WkN%233:De-vraag-%E2%9D%93) beantwoord.*
+
+### Artikel 3 - Progressive Enhancement ✅
+Voor deze week heb ik een **artikel** geschreven over Progressive Enhancement. Lees het artikel [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/Progressive-Enhancement---Wat-is-het-en-waarom-is-het-belangrijk%3F).
