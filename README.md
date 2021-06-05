@@ -6,6 +6,18 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied.
 Na elke sessie, 3 in totaal, heb ik artikelen geschreven over een bepaald onderwerp binnen de design wereld. Daarnaast
 heb ik ook vragen die horen bij de sessies, beantwoord. En je kunt sketchnotes vinden van de verschillende gastcolleges. 
 
+# Table of contents:
+
+- [📚 Week 1](#📚-week-1)
+  - [De vraag van de week]()
+  - [Artikel 1]()
+- [📚 Week 2](#📚-week-1)
+  - [De vraag van de week]()
+  - [Artikel 2]()
+- [📚 Week 3](#📚-week-1)
+  - [De vraag van de week]()
+  - [Artikel 3]()
+
 # 📚 Week 1
 Deze week was er een gastcollege van **Dept** waar werd uitgelegd hoe hun een case aanpakken. Ze hebben de case Univé gepresenteerd. Na het college van Dept, kwam er iemand van **Label A** uitleggen over een systeem voor het invullen van een rooster voor huisartsen. De Sketchnotes van de 2 gast lectures zijn [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/WkN%231:-Sketchnotes-%F0%9F%93%9D) te vinden.
 
@@ -14,6 +26,7 @@ In de post [Wat is een goede frontend developer](https://css-tricks.com/what-mak
 
 *Deze vraag heb ik [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/WkN%231:-De-vraag-%E2%9D%94) beantwoord.*
 
+### Artikel 1 - Balans tussen design en development.
 Voor deze week heb ik een **artikel** geschreven over de balans tussen design en development. Lees het artikel [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/Het-balans-tussen-Design-en-Development,-en-waarom-dit-belangrijk-is.).
 
 
