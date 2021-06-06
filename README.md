@@ -62,4 +62,4 @@ In de verschillende vakken die je hebt gevolgd zijn technieken en werkwijzen aan
 *Deze vraag heb ik [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/WkN%233:De-vraag-%E2%9D%93) beantwoord.*
 
 ### Artikel 3 - Progressive Enhancement ✅
-Voor deze week heb ik een **artikel** geschreven over Progressive Enhancement. Lees het artikel [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/Progressive-Enhancement---Wat-is-het-en-waarom-is-het-belangrijk%3F).
+Voor deze week heb ik een **artikel** geschreven over Progressive Enhancement. Lees het artikel [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/Progressive-Enhancement:-Wat-is-het-en-waarom-is-het-belangrijk%3F).
