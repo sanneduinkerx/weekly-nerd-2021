@@ -45,7 +45,7 @@ Je hebt geleerd hoe je toegankelijke websites kan maken. Een belangrijk uitgangs
 *Het antwoord op de vraag is [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/WkN%232:-de-vraag-%E2%9D%93) te vinden.*
 
 ### Artikel 2 - Toegankelijkheid
-Voor deze week heb ik een **artikel** geschreven over toegankelijkheid op het web. Lees het artikel [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/Waarom-focus-op-toegankelijkheid-belangrijk-is).
+Voor deze week heb ik een **artikel** geschreven over toegankelijkheid op het web. Lees het artikel [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/Toegankelijkheid-op-het-web).
 
 # 🤓 Weekly Nerd 3
 
