@@ -13,7 +13,7 @@ heb ik ook vragen, die horen bij de sessies, beantwoord. En je kunt sketchnotes 
   - [Artikel 1 - balans tussen design en development ⚙️](#artikel-1---balans-tussen-design-en-development-%EF%B8%8F)
 - [💻 Weekly Nerd 2](#-weekly-nerd-2)
   - [❓ De vraag](#-de-vraag-1)
-  - [Artikel 2 - toegankelijkheid ♿️](#artikel-2---toegankelijkheid-%EF%B8%8F)
+  - [Artikel 2 - toegankelijkheid](#artikel-2---toegankelijkheid)
 - [🤓 Weekly Nerd 3](#-weekly-nerd-3)
   - [❓ De vraag](#-de-vraag-2)
   - [Artikel 3 - progressive enhancement ✅](#artikel-3---progressive-enhancement-)
@@ -44,7 +44,7 @@ Je hebt geleerd hoe je toegankelijke websites kan maken. Een belangrijk uitgangs
 
 *Het antwoord op de vraag is [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/WkN%232:-de-vraag-%E2%9D%93) te vinden.*
 
-### Artikel 2 - Toegankelijkheid ♿️
+### Artikel 2 - Toegankelijkheid
 Voor deze week heb ik een **artikel** geschreven over toegankelijkheid op het web. Lees het artikel [hier](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki/Waarom-focus-op-toegankelijkheid-belangrijk-is).
 
 # 🤓 Weekly Nerd 3
