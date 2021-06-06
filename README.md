@@ -4,7 +4,7 @@ Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met 
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. 
 
 Na elke sessie, 3 in totaal, heb ik artikelen geschreven over een bepaald onderwerp binnen de design wereld. Daarnaast
-heb ik ook vragen, die horen bij de sessies, beantwoord. En je kunt sketchnotes vinden van de verschillende gastcolleges. 
+heb ik ook vragen, die horen bij de sessies, beantwoord. En ik heb ook sketchnotes gemaakt van alle gastcolleges. Voor alle sketchnotes, de vragen en artikelen ga je naar [mijn wiki](https://github.com/sanneduinkerx/weekly-nerd-2021/wiki).
 
 # Table of contents:
 
